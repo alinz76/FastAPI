@@ -1,5 +1,5 @@
 # Social Media API
-Project Based on FastAPI and contains some features like:
+Project Based on FastAPI on Docker which contains some features like:
 - Sign up and Sign in Users with JWT Token
 - Posting content
 - Voting posts
